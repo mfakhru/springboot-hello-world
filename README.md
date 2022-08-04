@@ -2,11 +2,6 @@
 
 <div id="top"></div>
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -25,7 +20,6 @@
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -35,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is our project to build model Facial Expression
+This is project to Springboot Hello World.
 
 
 
@@ -88,14 +82,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-<!-- CONTACT -->
-## Contact
-
-- Rivaldo Fernandes [Email](mailto:rivaldofez@gmail.com)
-- Faddli Lindra Wibowo [Email](mailto:bfaddly@gmail.com)
-- Muhammad Fakhrurrozi [Email](mailto:mfakhrurrozi.sutisna@gmail.com)
-
 Project Link: [https://github.com/ml-facial-expression/this-code-repo](https://github.com/ml-facial-expression/this-code-repo)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -106,21 +92,3 @@ Project Link: [https://github.com/ml-facial-expression/this-code-repo](https://g
 ## Acknowledgments
 
 This project created for Demo Day, Digital Talent Scholarships, Machine Learning Program.
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[forks-shield]: https://img.shields.io/github.com/mfakhru/springboot-hello-world.svg?style=for-the-badge
-
-[forks-url]: https://github.com/mfakhru/springboot-hello-world/network/members
-
-[stars-shield]: https://img.shields.io/github.com/mfakhru/springboot-hello-world.svg?style=for-the-badge
-
-[stars-url]: https://github.com/mfakhru/springboot-hello-world/stargazers
-
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-
-[issues-url]: https://github.com/mfakhru/springboot-hello-world/issues
-
-[license-url]: https://github.com/mfakhru/springboot-hello-world/blob/master/LICENSE.txt
