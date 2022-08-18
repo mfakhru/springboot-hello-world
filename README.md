@@ -63,7 +63,7 @@ Installation steps
 
 1. Clone this repository to your local computer.
 2. Load the project Spring Tools Suites or IntelliJ IDEA.
-3. Run ```sh mvn spring-boot:run```
+3. Run ```mvn spring-boot:run```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
