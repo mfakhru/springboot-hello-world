@@ -16,6 +16,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#api">Using the API</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -56,6 +57,9 @@ Clone repository using git
   ```sh
   git clone https://github.com/mfakhru/springboot-hello-world.git
   ```
+### Using the API   
+
+Simply start the app and make a HTTP GET request to http://localhost:8080/hello and you will get a JSON response.   
 
 ### Installation
 
@@ -64,6 +68,7 @@ Installation steps
 1. Clone this repository to your local computer.
 2. Load the project Spring Tools Suites or IntelliJ IDEA.
 3. Run ```mvn spring-boot:run```
+4. Open ```http://localhost:8080/hello```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
