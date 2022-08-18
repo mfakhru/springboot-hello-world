@@ -37,8 +37,8 @@ This is project to Springboot Hello World.
 
 This apps built with
 
-* [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
-* [Python](https://www.python.org/)
+* [Spring Tools Suites](https://spring.io/tools)
+* [Java 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -47,22 +47,23 @@ This apps built with
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To copy this project, you can contact contributor (Rivaldo, Faddli, Fakhrurozi etc) in this repository and after that you can clone this notebook file and setup related dataset folder
+To copy this project, you can clone.
 
 ### Prerequisites
 
 Clone repository using git
 * git
   ```sh
-  git clone https://github.com/ml-facial-expression/this-code-repo.git
+  git clone https://github.com/mfakhru/springboot-hello-world.git
   ```
 
 ### Installation
 
 Installation steps
 
-1. Download the notebooks
-2. Load the project on Google Colab and setup to the dataset folder
+1. Clone this repository to your local computer.
+2. Load the project Spring Tools Suites or IntelliJ IDEA.
+3. Run ```sh mvn spring-boot:run```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -82,13 +83,8 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-Project Link: [https://github.com/ml-facial-expression/this-code-repo](https://github.com/ml-facial-expression/this-code-repo)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-This project created for Demo Day, Digital Talent Scholarships, Machine Learning Program.
+This project created for Learn how to use Springboot.
