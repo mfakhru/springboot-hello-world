@@ -53,7 +53,6 @@ To copy this project, you can clone.
 ### Prerequisites
 
 Clone repository using git
-* git
   ```sh
   git clone https://github.com/mfakhru/springboot-hello-world.git
   ```
